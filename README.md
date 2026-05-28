@@ -13,7 +13,7 @@
 
 ## About
 
-I'm an AI/ML builder and early-stage founder focused on intelligent automation and agentic systems. Currently building **SeekAgent** — an AI-agent business targeting customer support automation and business workflow systems.
+I'm an AI/ML builder and early-stage founder focused on intelligent automation and agentic systems. Currently building **SeekAgent**, an AI-agent business targeting customer support automation and business workflow systems.
 
 My work sits at the intersection of applied AI and scalable product infrastructure. I think in systems, build with purpose, and move fast.
 
@@ -21,7 +21,7 @@ My work sits at the intersection of applied AI and scalable product infrastructu
 
 ## Current Focus
 
-**SeekAgent** — AI-agent infrastructure for customer support and business automation.
+**SeekAgent**: AI-agent infrastructure for customer support and business automation.
 Actively working on client acquisition, go-to-market, and core product development under zero-budget constraints.
 
 ---
